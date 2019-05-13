@@ -13,3 +13,10 @@
 2. `Requests` - Downloads files and web pages from the Internet.
 3. `Beautiful Soup` - Parses HTML, the format that web pages are written in.
 4. `Selenium` - Launches and controls a web browser. Selenium is able to fill in forms and simulate mouse clicks in this browser.
+
+###Excellent websites for crawling:
+ 
+- https://www.wikipedia.org/
+- https://soundcloud.com/ (audio – music) [allows full access to crawlers]
+- https://www.imdb.com (movie info)
+- https://www.rottentomatoes.com/ (movie ratings)
